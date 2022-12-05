@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'bookflight.wsgi.application'
+WSGI_APPLICATION = 'bookflight.wsgi.application
 
 
 # Database
